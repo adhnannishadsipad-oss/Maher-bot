@@ -1,11 +1,10 @@
 {
   "name": "maher-college-bot",
   "version": "1.0.0",
-  "description": "Telegram bot that tracks college messages for Maher personal assistant",
+  "description": "Maher college bot",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
-    "dev": "nodemon bot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.64.0",
